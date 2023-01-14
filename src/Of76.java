@@ -11,10 +11,6 @@ public class Of76 extends Clowns{
     }
 }
 
-interface Nose {
-    int iMethod();
-}
-
 class Picasso implements Nose{
     @Override
     public int iMethod(){
